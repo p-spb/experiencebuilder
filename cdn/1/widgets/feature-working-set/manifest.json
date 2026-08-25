@@ -1,0 +1,22 @@
+{
+  "name": "feature-working-set",
+  "label": "Feature Working Set",
+  "type": "widget",
+  "version": "1.0.0",
+  "exbVersion": "1.21.0",
+  "author": "Custom",
+  "description": "Capture selected features into a working set and show only those features on the map.",
+  "copyright": "",
+  "license": "",
+  "dependency": [
+    "jimu-arcgis"
+  ],
+  "defaultSize": {
+    "width": 340,
+    "height": 390
+  },
+  "properties": {},
+  "translatedLocales": [
+    "en"
+  ]
+}
